@@ -1,0 +1,53 @@
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.dll.config
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IService.pdb
+C:\Users\nitis\Desktop\MessagePassingComm\IService\bin\Debug\IService.dll.config
+C:\Users\nitis\Desktop\MessagePassingComm\IService\bin\Debug\IService.dll
+C:\Users\nitis\Desktop\MessagePassingComm\IService\bin\Debug\IService.pdb
+C:\Users\nitis\Desktop\MessagePassingComm\IService\obj\Debug\IMessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\nitis\Desktop\MessagePassingComm\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\nitis\Desktop\MessagePassingComm\IService\obj\Debug\IService.dll
+C:\Users\nitis\Desktop\MessagePassingComm\IService\obj\Debug\IService.pdb
+C:\Users\nitis\source\repos\userInterface\IService\bin\Debug\IService.dll.config
+C:\Users\nitis\source\repos\userInterface\IService\bin\Debug\IService.dll
+C:\Users\nitis\source\repos\userInterface\IService\bin\Debug\IService.pdb
+C:\Users\nitis\source\repos\userInterface\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\nitis\source\repos\userInterface\IService\obj\Debug\IService.dll
+C:\Users\nitis\source\repos\userInterface\IService\obj\Debug\IService.pdb
+C:\Users\Abhishek Mehrotra\Downloads\userInterface\userInterface\IService\bin\Debug\IService.dll.config
+C:\Users\Abhishek Mehrotra\Downloads\userInterface\userInterface\IService\bin\Debug\IService.dll
+C:\Users\Abhishek Mehrotra\Downloads\userInterface\userInterface\IService\bin\Debug\IService.pdb
+C:\Users\Abhishek Mehrotra\Downloads\userInterface\userInterface\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Mehrotra\Downloads\userInterface\userInterface\IService\obj\Debug\IService.dll
+C:\Users\Abhishek Mehrotra\Downloads\userInterface\userInterface\IService\obj\Debug\IService.pdb
+C:\userInterface\IService\bin\Debug\IService.dll.config
+C:\userInterface\IService\bin\Debug\IService.dll
+C:\userInterface\IService\bin\Debug\IService.pdb
+C:\userInterface\IService\obj\Debug\IMessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\userInterface\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\userInterface\IService\obj\Debug\IService.dll
+C:\userInterface\IService\obj\Debug\IService.pdb
+C:\Users\nitis\Desktop\userInterface\IService\bin\Debug\IService.dll.config
+C:\Users\nitis\Desktop\userInterface\IService\bin\Debug\IService.dll
+C:\Users\nitis\Desktop\userInterface\IService\bin\Debug\IService.pdb
+C:\Users\nitis\Desktop\userInterface\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\nitis\Desktop\userInterface\IService\obj\Debug\IService.dll
+C:\Users\nitis\Desktop\userInterface\IService\obj\Debug\IService.pdb
+C:\Users\nitis\Desktop\userInterface\IService\obj\Debug\IMessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\nitis\Desktop\Project4_NitishKumar\userInterface\IService\bin\Debug\IService.dll.config
+C:\Users\nitis\Desktop\Project4_NitishKumar\userInterface\IService\bin\Debug\IService.dll
+C:\Users\nitis\Desktop\Project4_NitishKumar\userInterface\IService\bin\Debug\IService.pdb
+C:\Users\nitis\Desktop\Project4_NitishKumar\userInterface\IService\obj\Debug\IMessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\nitis\Desktop\Project4_NitishKumar\userInterface\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\nitis\Desktop\Project4_NitishKumar\userInterface\IService\obj\Debug\IService.dll
+C:\Users\nitis\Desktop\Project4_NitishKumar\userInterface\IService\obj\Debug\IService.pdb
+C:\Project4_NitishKumar\userInterface\IService\bin\Debug\IService.dll.config
+C:\Project4_NitishKumar\userInterface\IService\bin\Debug\IService.dll
+C:\Project4_NitishKumar\userInterface\IService\bin\Debug\IService.pdb
+C:\Project4_NitishKumar\userInterface\IService\obj\Debug\IMessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Project4_NitishKumar\userInterface\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Project4_NitishKumar\userInterface\IService\obj\Debug\IService.dll
+C:\Project4_NitishKumar\userInterface\IService\obj\Debug\IService.pdb

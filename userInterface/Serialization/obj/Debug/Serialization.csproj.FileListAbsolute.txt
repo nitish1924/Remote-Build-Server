@@ -1,0 +1,40 @@
+C:\Users\nitis\source\repos\userInterface\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\nitis\source\repos\userInterface\Serialization\bin\Debug\Serialization.exe
+C:\Users\nitis\source\repos\userInterface\Serialization\bin\Debug\Serialization.pdb
+C:\Users\nitis\source\repos\userInterface\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\nitis\source\repos\userInterface\Serialization\obj\Debug\Serialization.exe
+C:\Users\nitis\source\repos\userInterface\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Abhishek Mehrotra\Downloads\userInterface\userInterface\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Abhishek Mehrotra\Downloads\userInterface\userInterface\Serialization\bin\Debug\Serialization.exe
+C:\Users\Abhishek Mehrotra\Downloads\userInterface\userInterface\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Abhishek Mehrotra\Downloads\userInterface\userInterface\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Mehrotra\Downloads\userInterface\userInterface\Serialization\obj\Debug\Serialization.exe
+C:\Users\Abhishek Mehrotra\Downloads\userInterface\userInterface\Serialization\obj\Debug\Serialization.pdb
+C:\userInterface\Serialization\bin\Debug\Serialization.exe.config
+C:\userInterface\Serialization\bin\Debug\Serialization.exe
+C:\userInterface\Serialization\bin\Debug\Serialization.pdb
+C:\userInterface\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\userInterface\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\userInterface\Serialization\obj\Debug\Serialization.exe
+C:\userInterface\Serialization\obj\Debug\Serialization.pdb
+C:\Users\nitis\Desktop\userInterface\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\nitis\Desktop\userInterface\Serialization\bin\Debug\Serialization.exe
+C:\Users\nitis\Desktop\userInterface\Serialization\bin\Debug\Serialization.pdb
+C:\Users\nitis\Desktop\userInterface\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\nitis\Desktop\userInterface\Serialization\obj\Debug\Serialization.exe
+C:\Users\nitis\Desktop\userInterface\Serialization\obj\Debug\Serialization.pdb
+C:\Users\nitis\Desktop\userInterface\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\nitis\Desktop\Project4_NitishKumar\userInterface\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\nitis\Desktop\Project4_NitishKumar\userInterface\Serialization\bin\Debug\Serialization.exe
+C:\Users\nitis\Desktop\Project4_NitishKumar\userInterface\Serialization\bin\Debug\Serialization.pdb
+C:\Users\nitis\Desktop\Project4_NitishKumar\userInterface\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\nitis\Desktop\Project4_NitishKumar\userInterface\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\nitis\Desktop\Project4_NitishKumar\userInterface\Serialization\obj\Debug\Serialization.exe
+C:\Users\nitis\Desktop\Project4_NitishKumar\userInterface\Serialization\obj\Debug\Serialization.pdb
+C:\Project4_NitishKumar\userInterface\Serialization\bin\Debug\Serialization.exe.config
+C:\Project4_NitishKumar\userInterface\Serialization\bin\Debug\Serialization.exe
+C:\Project4_NitishKumar\userInterface\Serialization\bin\Debug\Serialization.pdb
+C:\Project4_NitishKumar\userInterface\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Project4_NitishKumar\userInterface\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Project4_NitishKumar\userInterface\Serialization\obj\Debug\Serialization.exe
+C:\Project4_NitishKumar\userInterface\Serialization\obj\Debug\Serialization.pdb

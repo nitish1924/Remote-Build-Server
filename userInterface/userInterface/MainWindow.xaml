@@ -1,0 +1,31 @@
+﻿<Window x:Class="userInterface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:userInterface"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="53*"/>
+            <ColumnDefinition Width="206*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox Name="listbox1" SelectionMode="Multiple" HorizontalAlignment="Left" Height="180" VerticalAlignment="Top" Width="140" Margin="10,27,0,0" SelectionChanged="ListBox_SelectionChanged" Grid.ColumnSpan="2"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,4,0,0" TextWrapping="Wrap" Text="          Repository" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" Grid.ColumnSpan="2"/>
+        <ListBox x:Name="listbox2" HorizontalAlignment="Left" Height="180" VerticalAlignment="Top" Width="140" Margin="82.729,27,0,0" SelectionChanged="ListBox_SelectionChanged" Grid.Column="1"/>
+        <ListBox x:Name="listbox3" HorizontalAlignment="Left" Height="180" VerticalAlignment="Top" Width="140" Margin="250.729,27,0,0" SelectionChanged="ListBox_SelectionChanged" Grid.Column="1"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="82.729,4,0,0" TextWrapping="Wrap" Text="      Generate Request" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" Grid.Column="1"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="250.729,4,0,0" TextWrapping="Wrap" Text="          Test Requests" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" Grid.Column="1"/>
+        <Button Name="button1" Content="Select Files for Test request" HorizontalAlignment="Left" Margin="6,271,0,0" VerticalAlignment="Top" Width="163" Click="button1_Click" Grid.ColumnSpan="2"/>
+        <Button Name="button2" Content="Create Test Request" HorizontalAlignment="Left" Margin="79.5,271,0,0" VerticalAlignment="Top" Width="110" RenderTransformOrigin="0.5,0.5" Click="button2_Click" Grid.Column="1"/>
+        <Button Name="button3" Content="create process" HorizontalAlignment="Left" Margin="301.5,271,0,0" VerticalAlignment="Top" Width="94" RenderTransformOrigin="0.09,0.56" Grid.Column="1" Click="button3_Click"/>
+        <Button Name="browse" Content="browse" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="94,228,0,0" VerticalAlignment="Top" Width="75" Click="browse_Click"/>
+        <ListBox Name="listbox4" HorizontalAlignment="Left" Height="33" Margin="10,228,0,0" VerticalAlignment="Top" Width="66"/>
+        <Button Name="upload" Content="upload" Grid.Column="1" HorizontalAlignment="Left" Margin="80,228,0,0" VerticalAlignment="Top" Width="75" Click="upload_Click"/>
+        <TextBox Name="text1" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="276,228,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="text1_TextChanged"/>
+        <Button Content="Kill" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" RenderTransformOrigin="4.342,11.807" Grid.Column="1" Margin="179.5,228,0,0" Click="Button_Click_2"/>
+        <Button Content="Send" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Grid.Column="1" Margin="204.5,271,0,0" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>
